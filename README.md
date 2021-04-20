@@ -9,3 +9,4 @@ Steps:-
 5. We will recieve the Success response after that which means our database has stored the provided details. Change the 'reportDetails' accordingly to check various cases.
 6. Now we can make GET requests using the reportID quesry parameters  to recieve all required details about the report(using POSTMAN or any browser).
 
+Some images for API test - https://drive.google.com/drive/folders/1M2067KPzVmnanxgrLihO2WmbkAFTYyJt?usp=sharing
