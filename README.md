@@ -2,7 +2,7 @@
 
 
 Steps:-
-1. Clone the repo
+1. Clone the repo, navigate inside gramoday_project folder
 2. run npm install to download necessary dependencies
 3. run node server.js to start server
 4. An example 'reportDetails' object is created in server.js file to check if API is working. Make a POST request using Postman or through Firefox(by manually changing GET request into a POST request.)
